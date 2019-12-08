@@ -1,4 +1,4 @@
-# Entrevista PHP
+# Entrevista Angular
 
 ![](https://miro.medium.com/max/2800/0*rDChHWWLHxxpXI0a.png)
 
