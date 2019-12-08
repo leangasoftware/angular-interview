@@ -83,7 +83,7 @@ Se necesita generar un componente el cual se usará en vista del detalle, para c
 
 Ejemplo `<comentarios post="{id}"/></comentarios>`
 
-![](https://i.imgur.com/8cPCArw.png](https://i.imgur.com/8cPCArw.png)
+![](https://i.imgur.com/8cPCArw.png)
 
 ### 4. EMIT
 
