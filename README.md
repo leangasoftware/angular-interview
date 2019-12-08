@@ -79,10 +79,11 @@ __PROBLEMA:__
 > Como todo buen post se necesitan ver los comentarios de dicho post.
 
 __REQUERIMIENTO:__
-Se necesita generar un componente el cual se usará para cargar una lista de comentarios de `https://jsonplaceholder.typicode.com/comments?postId={id}` pasando por atributo el id del post. 
+Se necesita generar un componente el cual se usará en vista del detalle, para cargar una lista de comentarios usando `https://jsonplaceholder.typicode.com/comments?postId={id}` pasando por atributo el id del post. 
+
 Ejemplo `<comentarios post="{id}"/></comentarios>`
 
-![]([https://i.imgur.com/8cPCArw.png](https://i.imgur.com/8cPCArw.png)
+![](https://i.imgur.com/8cPCArw.png](https://i.imgur.com/8cPCArw.png)
 
 ### 4. EMIT
 
